@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://suhatheblob.github.io"
+baseurl: "/collegemc"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
+serverName: College Minecraft
+serverDescription: A Minecraft server for all college students!
 serverIP: 31.41.59.26:5358
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/uTcbWtbPU6
+discordServerID: 1302432423442776105
+discordChannelID: 1302442382498861089
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
